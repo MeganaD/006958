@@ -1,3 +1,6 @@
+# 모델 데이터
+*.hdf5
+
 
 # Created by https://www.gitignore.io/api/python,pycharm+all,jupyternotebook,code
 
